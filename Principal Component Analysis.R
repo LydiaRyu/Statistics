@@ -19,7 +19,6 @@ summary(PCA.model.cor)
 # Biplot
 biplot(PCA.model.cor)
 
-
 PCA.model.cov<-prcomp(Forbes1995[,5:8], center = TRUE, scale. = FALSE)
 PCA.model.cov
 
