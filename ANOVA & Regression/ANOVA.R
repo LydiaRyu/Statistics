@@ -1,4 +1,4 @@
-setwd("D:/EUN/KU/2021_2/Research Methods2/CH1")
+
 parent.data <- read.csv("parent.csv")
 
 install.packages("BSDA")
